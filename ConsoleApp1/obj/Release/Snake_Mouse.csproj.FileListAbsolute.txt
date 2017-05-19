@@ -1,0 +1,10 @@
+C:\Users\makc\Documents\Visual Studio 2017\Projects\Hunter\ConsoleApp1\bin\Release\HunterAndAnimal.exe.config
+C:\Users\makc\Documents\Visual Studio 2017\Projects\Hunter\ConsoleApp1\bin\Release\HunterAndAnimal.exe
+C:\Users\makc\Documents\Visual Studio 2017\Projects\Hunter\ConsoleApp1\bin\Release\HunterAndAnimal.pdb
+C:\Users\makc\Documents\Visual Studio 2017\Projects\Hunter\ConsoleApp1\obj\Release\HunterAndAnimal.exe
+C:\Users\makc\Documents\Visual Studio 2017\Projects\Hunter\ConsoleApp1\obj\Release\HunterAndAnimal.pdb
+C:\Users\makc\Documents\Visual Studio 2017\Projects\Snake_Mouse\ConsoleApp1\bin\Release\Snake_Mouse.exe.config
+C:\Users\makc\Documents\Visual Studio 2017\Projects\Snake_Mouse\ConsoleApp1\bin\Release\Snake_Mouse.exe
+C:\Users\makc\Documents\Visual Studio 2017\Projects\Snake_Mouse\ConsoleApp1\bin\Release\Snake_Mouse.pdb
+C:\Users\makc\Documents\Visual Studio 2017\Projects\Snake_Mouse\ConsoleApp1\obj\Release\Snake_Mouse.exe
+C:\Users\makc\Documents\Visual Studio 2017\Projects\Snake_Mouse\ConsoleApp1\obj\Release\Snake_Mouse.pdb
