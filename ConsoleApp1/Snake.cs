@@ -10,7 +10,7 @@ namespace SnakeAndMouse
             public string Name { get; set; }
             public int X { get; set; } = 0; //position X
             public int Y { get; set; } = 0; //position Y
-            public event GoHandler snakeWent;
+            public event Action snakeWent;
             public Snake(string name)
             {
                 Name = name;

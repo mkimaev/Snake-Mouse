@@ -10,7 +10,7 @@ namespace SnakeAndMouse
             public string Name { get; set; }
             public static int X { get; set; } = 0; //position X
             public static int Y { get; set; } = 0; //position Y
-            public event GoHandler Went;
+            public event Action Went;
             public Mouse(string name)
             {
                 Name = name;
@@ -30,7 +30,7 @@ namespace SnakeAndMouse
                 Thread.Sleep(100);
                 if (Went != null)
                 {
-                    Went(); // invoke
+                    Went();// invoke
                 }
             }
         }
