@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SnakeAndMouse
 {
-    delegate void GoHandler(); //delegate
+    //delegate void GoHandler(); //delegate
 
     partial class Program
     {
